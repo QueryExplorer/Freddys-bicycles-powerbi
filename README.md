@@ -60,19 +60,19 @@ This Power BI project was developed for a fictional company, Freddy’s Bicycles
 ## 📸 Dashboard Previews
 
 ### 🔹 Sales Performance Report
-![Sales Report](screenshots/Sales_report.png)
+![Sales Report](Screenshots/Sales_report.png)
 
 ### 🌍 Sales Territory Report
-![Territory Report](screenshots/Territory_report.png)
+![Territory Report](Screenshots/Territory_report.png)
 
 ### 👥 HR Report
-![HR Report](screenshots/Hr_report.png)
+![HR Report](Screenshots/Hr_report.png)
 
 ### 📦 Inventory Report
-![Inventory Report](screenshots/Inventory_report.png)
+![Inventory Report](Screenshots/Inventory_report.png)
 
 ### 💰 Finance Report
-![Finance Report](screenshots/Finance_report.png)
+![Finance Report](Screenshots/Finance_report.png)
 
 
 ---
